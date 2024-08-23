@@ -2,7 +2,7 @@
 
 Была освоена специфика проекта с микросервисной архитектурой, проведено ревью проектной документации, создана тестовая документация. 
 
-При выполнения [задания](https://github.com/ArtemZaikin/QA-project/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.md) использованы такие инструменты тестирования как ***Postman***, ***Swagger***, ***Docker***, ***Dbeaver(GUI для Postgresql)***.
+При выполнении [заданий](https://github.com/ArtemZaikin/QA-project/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.md) использованы такие инструменты тестирования как ***Postman***, ***Swagger***, ***Docker***, ***Dbeaver(GUI для Postgresql)***.
 
 
 
